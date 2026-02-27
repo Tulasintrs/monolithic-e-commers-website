@@ -1,0 +1,17 @@
+.footer-cls{
+  color:rgb(229, 108, 22);
+}
+.footer {
+  text-align: center;
+  padding: 15px;
+  background-color: y#0b2c4a;
+  font-family: Arial, sans-serif;
+  position: fixed;
+  position: sticky;
+}
+.social-icons img {
+  width: 30px;
+  margin: 0 8px;
+  cursor: pointer;
+  border-radius: 50%;
+}

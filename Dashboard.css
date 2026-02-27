@@ -1,0 +1,9 @@
+/* Dashboard Container */
+.dashboard-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: url("../Assets/dashboard.png");
+  background-size: cover;
+}
